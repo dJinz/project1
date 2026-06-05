@@ -1,4 +1,5 @@
 import React from 'react';
+import jamesPfp from '../assets/jamespfp.png';
 
 const Hero = () => {
   return (
